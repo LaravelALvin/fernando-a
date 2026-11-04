@@ -6,3 +6,4 @@ def getRadius():
     return radius 
 
 calc()
+getRadius()
