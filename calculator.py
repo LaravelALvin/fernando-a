@@ -3,4 +3,6 @@ def calc():
 
 def getRadius():
     radius = float(input("Enter the radius: "))
-    return radius
+    return radius 
+
+calc()
