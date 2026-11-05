@@ -7,3 +7,4 @@ def getRadius():
 
 calc()
 getRadius()
+print("The radius is:", getRadius())
